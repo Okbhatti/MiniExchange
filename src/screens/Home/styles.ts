@@ -17,7 +17,7 @@ export const styles = StyleSheet.create({
     padding: 20,
   },
   title: {
-    fontSize: 32,
+    fontSize: 28,
     fontWeight: 'bold',
     color: theme.color.white,
     textAlign: 'center',
